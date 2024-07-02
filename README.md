@@ -1,0 +1,2 @@
+# Video Game Data Analysis
+  This analysis is done to predict the global sales of video games using regression analysis. Various  regressors were used, as well as classification and clustering methods outputs. Indicative metrics showed  that all the regressors were effective predicting sales efficiency of all the regressors. Using numerical data  from various independent numerical variables (not including year). However, Random Forest proved to be  the most effective in terms faster deployment .
